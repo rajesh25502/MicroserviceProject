@@ -1,0 +1,10 @@
+com\example\TaskService\Service\TaskService.class
+com\example\TaskService\Controller\TaskController.class
+com\example\TaskService\Service\UserService.class
+com\example\TaskService\Repository\TaskRepo.class
+com\example\TaskService\DTO\UserDTO.class
+com\example\TaskService\Controller\HomeController.class
+com\example\TaskService\TaskServiceApplication.class
+com\example\TaskService\DTO\USER_ROLE.class
+com\example\TaskService\Model\Task.class
+com\example\TaskService\Model\TaskStatus.class

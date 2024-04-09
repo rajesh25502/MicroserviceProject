@@ -1,0 +1,25 @@
+server:
+  port: 8003
+
+spring:
+  application:
+    name: SUBMISSION-SERVICE
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/submissionservice
+    username: root
+    password: Raj@3012
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8004/eureka/

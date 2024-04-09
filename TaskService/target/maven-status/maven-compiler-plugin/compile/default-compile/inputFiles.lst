@@ -1,0 +1,10 @@
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\Controller\HomeController.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\Service\TaskService.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\TaskServiceApplication.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\DTO\UserDTO.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\Model\Task.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\Model\TaskStatus.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\DTO\USER_ROLE.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\Repository\TaskRepo.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\Service\UserService.java
+D:\Projects\Microservices\TaskService\src\main\java\com\example\TaskService\Controller\TaskController.java
