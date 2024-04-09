@@ -1,0 +1,13 @@
+package com.example.UserService.DTO;
+
+import com.example.UserService.Model.USER_ROLE;
+import lombok.Data;
+
+@Data
+public class AuthResponse {
+
+    private  String jwt;
+    private String message;
+    private USER_ROLE role;
+
+}
